@@ -22,7 +22,7 @@ O projeto apresentou resultados positivos na análise da interação entre usuá
 * **Engenharia de Prompt:** Aprendizado sobre contextualização, detalhamento técnico e direcionamento visual para modelos generativos.
 
 * ## 🖼️ Evolução das Tentativas
-* **alinhamento da cesta de basquete;**
+* **traje da nasa;**
 * **centralização da câmera;**
 *  **correção de perspectiva;**
 *  **composição cinematográfica;**
